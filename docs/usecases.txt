@@ -5,3 +5,4 @@
 1. Build This code base from jenkins
 2. Deploy the code to tomcat server
 3. Use any configuration management tool for acheiving this
+4. Create a Dockerfile also for this
